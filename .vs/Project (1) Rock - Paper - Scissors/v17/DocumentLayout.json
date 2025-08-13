@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\05- Algorithem P2 course\\Project (1) Rock - Paper - Scissors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11802B56-A4EA-46FC-B42D-A8B32F525F91}|Project (1) Rock - Paper - Scissors.vcxproj|D:\\05- Algorithem P2 course\\Project (1) Rock - Paper - Scissors\\Project (1) Rock - Paper - Scissors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11802B56-A4EA-46FC-B42D-A8B32F525F91}|Project (1) Rock - Paper - Scissors.vcxproj|solutionrelative:Project (1) Rock - Paper - Scissors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project (1) Rock - Paper - Scissors.cpp",
+              "DocumentMoniker": "D:\\05- Algorithem P2 course\\Project (1) Rock - Paper - Scissors\\Project (1) Rock - Paper - Scissors.cpp",
+              "RelativeDocumentMoniker": "Project (1) Rock - Paper - Scissors.cpp",
+              "ToolTip": "D:\\05- Algorithem P2 course\\Project (1) Rock - Paper - Scissors\\Project (1) Rock - Paper - Scissors.cpp",
+              "RelativeToolTip": "Project (1) Rock - Paper - Scissors.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T12:57:58.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

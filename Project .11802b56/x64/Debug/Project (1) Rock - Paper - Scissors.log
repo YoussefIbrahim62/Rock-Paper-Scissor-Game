@@ -1,0 +1,4 @@
+﻿  Project (1) Rock - Paper - Scissors.cpp
+D:\05- Algorithem P2 course\Project (1) Rock - Paper - Scissors\Project (1) Rock - Paper - Scissors.cpp(219,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\05- Algorithem P2 course\Project (1) Rock - Paper - Scissors\Project (1) Rock - Paper - Scissors.cpp(49,1): warning C4715: 'ReturnPlayerChoice': not all control paths return a value
+  Project (1) Rock - Paper - Scissors.vcxproj -> D:\05- Algorithem P2 course\Project (1) Rock - Paper - Scissors\x64\Debug\Project (1) Rock - Paper - Scissors.exe
